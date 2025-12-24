@@ -4,5 +4,7 @@
 #[cfg(test)]
 extern crate std;
 
-pub mod f62;
-pub mod f64;
+/// Adds two numbers.
+pub fn add(x: usize, y: usize) -> usize {
+    x + y
+}
