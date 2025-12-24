@@ -12,4 +12,8 @@ impl<T, const N: usize> Item<T, N> {
             leaf: ManuallyDrop::new(leaf),
         }
     }
+
+    pub fn push(&self, value: T) -> Self {
+        todo!()
+    }
 }
