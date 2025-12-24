@@ -3,8 +3,6 @@ mod leaf;
 mod node;
 
 use self::item::Item;
-use self::leaf::Leaf;
-use self::node::Node;
 use alloc::sync::Arc;
 
 /// A radix vector.
