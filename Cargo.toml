@@ -34,3 +34,6 @@ use_self = "deny"
 [lints.rust]
 missing_docs = "deny"
 warnings = "deny"
+
+[dependencies]
+pretty_assertions = "1.4.1"
