@@ -5,7 +5,7 @@
 extern crate std;
 
 /// Adds two numbers.
-pub fn add(x: usize, y: usize) -> usize {
+pub const fn add(x: usize, y: usize) -> usize {
     x + y
 }
 
