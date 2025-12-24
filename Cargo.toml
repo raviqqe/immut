@@ -2,7 +2,7 @@
 name = "immut"
 version = "0.1.0"
 edition = "2024"
-description = ""
+description = "Immutable all the things!"
 repository = "https://github.com/raviqqe/immut"
 license-file = "./LICENSE"
 
