@@ -1,11 +1,9 @@
-# nonbox
+# immut
 
-[![GitHub Action](https://img.shields.io/github/actions/workflow/status/raviqqe/nonbox/test.yaml?branch=main&style=flat-square)](https://github.com/raviqqe/nonbox/actions)
-[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json&style=flat-square)](https://codspeed.io/raviqqe/nonbox)
-[![Crate](https://img.shields.io/crates/v/nonbox.svg?style=flat-square)](https://crates.io/crates/nonbox)
-[![License](https://img.shields.io/github/license/raviqqe/nonbox.svg?style=flat-square)](LICENSE)
-
-NaN boxing without boxing.
+[![GitHub Action](https://img.shields.io/github/actions/workflow/status/raviqqe/immut/test.yaml?branch=main&style=flat-square)](https://github.com/raviqqe/immut/actions)
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json&style=flat-square)](https://codspeed.io/raviqqe/immut)
+[![Crate](https://img.shields.io/crates/v/immut.svg?style=flat-square)](https://crates.io/crates/immut)
+[![License](https://img.shields.io/github/license/raviqqe/immut.svg?style=flat-square)](LICENSE)
 
 ## License
 
